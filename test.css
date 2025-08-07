@@ -1,0 +1,87 @@
+main{
+   background-color: rgb(250, 244, 237);
+}
+h2{
+   color: green;
+   
+}
+.info{
+   color:rgb(205, 89, 128);
+   font-weight: bolder;
+}
+
+
+.color{
+   background-color: rgb(145, 64, 222);
+}
+.farah{
+background-color: #9140de;
+}
+.Mohamed{
+     background-color: hsl(271, 71%, 56%);
+     opacity: 0.5;
+}
+.nadi{
+   background-color: rgba(145, 64, 222,0.6);
+}
+footer{
+   text-align: center;
+   font-size: smaller;
+   margin-top: 55px;
+}
+.title{
+   text-align: center;
+   text-transform: capitalize;
+   color: rgb(95, 95, 95);
+ 
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.underline{
+   text-decoration: underline;
+   text-decoration-color: red;
+   
+}
+.capital{
+  text-transform: uppercase;
+  letter-spacing:1.5px;
+}
+.space{
+   letter-spacing: 2px;
+}
+.dash{
+   text-decoration: line-through;
+   color: rgb(169, 169, 197);
+  
+}
+
+.jessica{
+   background-color: rgb(71, 69, 69);
+   width: 500px;
+   text-align: center;
+   border-radius: 20px;
+  margin: auto;
+  padding-bottom:20px ;
+  display: block;
+   
+}
+
+
+.image{
+   width: 200px;
+   height: 200px;
+   border-radius: 500px;
+  margin-top: 20px;
+   
+}
+.mmm{
+   background-color: rgb(128, 124, 124);
+   color: white;
+   width:340px;
+  border-radius: 10px;
+  
+  height: 50px;
+  padding-top: 30px;
+margin-left: 93px;
+  
+}
+
