@@ -2,9 +2,9 @@ main{
    background-color: rgb(250, 244, 237);
 }
 h2{
-   color: green;
-   
+   color:green;
 }
+   
 .info{
    color:rgb(205, 89, 128);
    font-weight: bolder;
@@ -85,3 +85,57 @@ margin-left: 93px;
   
 }
 
+
+.container{
+   display: flex;
+   margin: auto;
+   gap: 20px;
+   width: 500px;
+   background-color: antiquewhite;
+}
+img{
+   background-size: cover;
+}
+.cart{
+   color: white;
+   background-color: green;
+   width: 200px;
+   height:50px;
+   border-radius: 10px;
+   
+}
+.logo{
+   padding-left: 30px;
+   padding-bottom: 50px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: white;
+}
+.cards{
+   display: flex;
+   height: 400px;
+   width:800px;
+   margin: auto;
+}
+.card1 {
+   background-color: rgb(223, 166, 58);
+}
+.card2 {
+   background-color: rgb(122, 188, 130);
+}.card3 {
+   background-color: rgb(77, 152, 218);
+}
+ 
+.cards p {
+text-align: center;
+padding-bottom: 100px;
+color: white;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cards button{
+ border-radius: 20px;
+ padding: 10px;
+font-weight: bolder;
+margin-left: 80px;
+
+}
+   
